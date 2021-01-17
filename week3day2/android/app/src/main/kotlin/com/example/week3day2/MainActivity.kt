@@ -1,0 +1,6 @@
+package com.example.week3day2
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
